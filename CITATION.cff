@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use GDD in your work, please cite it as below."
+type: software
+title: "Governance-Driven Design (GDD): Formalizing Intent Before the Machine Runs"
+version: 0.1.0
+date-released: 2026-06-26
+doi: 10.5281/zenodo.FORTHCOMING
+authors:
+  - family-names: Shatny
+    given-names: Michael
+    affiliation: Semantic Intent
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+url: "https://github.com/semanticintent/governance-driven-design"
+license: MIT
+abstract: >
+  Governance-Driven Design (GDD) is a pre-execution discipline for AI-first
+  delivery lifecycles. Where Test-Driven Development (TDD) defined correctness
+  at the implementation layer, and Behaviour-Driven Development (BDD) elevated
+  it to observable behaviour, GDD moves the definition of correctness upstream
+  — into the governance layer, before any artifact is produced, before any
+  agent is invoked. GDD operates through Iterative Constraint Refinement (ICR),
+  a cycle that formalizes domain assumptions, stress-tests them, surfaces
+  internal conflicts, and produces a Governed Constraint Set whose most
+  valuable output is the unresolvable residue — decisions that require human
+  judgment before execution proceeds.
+keywords:
+  - governance-driven-design
+  - GDD
+  - semantic-intent
+  - agentic-systems
+  - iterative-constraint-refinement
+  - AI-governance
+  - pre-execution-formalization
+  - human-as-primitive
+  - delivery-lifecycle
+  - methodology
+references:
+  - type: article
+    title: "Semantic Intent as Governance Primitive for Agentic Systems"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20436088"
+  - type: article
+    title: "Semantic Intent as Emitted Directive: Dynamic Governance Primitive Generation in MCP Tool Pipelines"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20563477"
+  - type: article
+    title: "Methodology-as-Infrastructure: From Framework to Runtime"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20681699"
+  - type: article
+    title: "Intent-as-Infrastructure: When the Compiler Is Claude"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20681523"
+  - type: article
+    title: "The Synthesis Gate: What Makes a Workflow Agentic"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20684283"
+  - type: article
+    title: "Semantic Intent as Single Source of Truth: Immutable Governance for AI-Assisted Development"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.13770361"
