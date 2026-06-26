@@ -17,6 +17,8 @@ Each example follows the same structure:
 **Stakes:** Regulatory compliance, incorrect approvals or denials at scale, audit exposure  
 **Context:** Phoenix Runtime pipeline being prepared to modernize the legacy system
 
+> **Illustrative example.** The domain details are accurate; the engagement is constructed to be representative.
+
 ---
 
 ### The Situation
