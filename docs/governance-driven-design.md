@@ -32,11 +32,11 @@ GDD is the discipline of applying governance before execution — of treating th
 GDD does not emerge from nowhere. It is the next step in a migration that has been underway for decades — the progressive movement of "correctness" earlier in the delivery lifecycle.
 
 ```
-TDD  (2003)  →  correctness defined at implementation
-BDD  (2006)  →  correctness defined at behaviour
-DDD  (2003)  →  correctness defined at domain model
-GDD  (2026)  →  correctness defined at governance layer
-               before any artifact exists
+TDD  (2002–03)  →  correctness defined at implementation
+DDD  (2003)     →  correctness defined at the domain model
+BDD  (2006)     →  correctness defined at behaviour (built on DDD)
+GDD  (2026)     →  correctness defined at the governance layer
+                   before any artifact exists
 ```
 
 Each transition shared a common pattern:
@@ -46,8 +46,8 @@ Each transition shared a common pattern:
 - A new discipline moved the definition of correctness earlier, making those assumptions explicit before they became expensive
 
 TDD caught implementation errors before they reached production.  
-BDD caught behaviour mismatches before they reached users.  
 DDD caught domain model incoherence before it fractured the architecture.  
+BDD caught behaviour mismatches before they reached users.  
 GDD catches **governance failures before any agent runs** — before any artifact is produced that embeds an unexamined assumption into the delivery chain.
 
 The migration is not philosophical preference. It is the natural response to increasing delivery velocity. As the gap between "code written" and "code in production" compressed, each discipline moved correctness earlier to stay ahead of the cost curve. AI-first delivery compresses that gap to near-zero. GDD is the logical response.
