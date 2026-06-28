@@ -4,7 +4,7 @@ type: software
 title: "Governance-Driven Design (GDD): Formalizing Intent Before the Machine Runs"
 version: 0.1.1
 date-released: 2026-06-28
-doi: 10.5281/zenodo.20938778
+doi: 10.5281/zenodo.20938777
 authors:
   - family-names: Shatny
     given-names: Michael

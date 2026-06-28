@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20938778.svg)](https://doi.org/10.5281/zenodo.20938778)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20938777.svg)](https://doi.org/10.5281/zenodo.20938777)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2011--3258-brightgreen?logo=orcid)](https://orcid.org/0009-0006-2011-3258)
 
 # Governance-Driven Design (GDD)
@@ -240,7 +240,7 @@ The formal academic grounding for GDD and the Semantic Intent ecosystem:
 | Methodology-as-Infrastructure | 2026 | [10.5281/zenodo.20681699](https://doi.org/10.5281/zenodo.20681699) |
 | Intent-as-Infrastructure | 2026 | [10.5281/zenodo.20681523](https://doi.org/10.5281/zenodo.20681523) |
 | The Synthesis Gate | 2026 | [10.5281/zenodo.20684283](https://doi.org/10.5281/zenodo.20684283) |
-| Governance-Driven Design (GDD) | 2026 | [10.5281/zenodo.20938778](https://doi.org/10.5281/zenodo.20938778) |
+| Governance-Driven Design (GDD) | 2026 | [10.5281/zenodo.20938777](https://doi.org/10.5281/zenodo.20938777) |
 | Machine Legibility Dimensions | 2026 | [10.5281/zenodo.19546590](https://doi.org/10.5281/zenodo.19546590) |
 | GESA | 2026 | [10.5281/zenodo.20533843](https://doi.org/10.5281/zenodo.20533843) |
 | CROC | 2026 | [10.5281/zenodo.20777675](https://doi.org/10.5281/zenodo.20777675) |
@@ -269,7 +269,7 @@ If GDD is useful to your thinking, your project, or your research:
 
 ```
 Shatny, M. (2026). Governance-Driven Design (GDD): Formalizing Intent 
-Before the Machine Runs. Zenodo. https://doi.org/10.5281/zenodo.20938778
+Before the Machine Runs. Zenodo. https://doi.org/10.5281/zenodo.20938777
 ```
 
 ---
