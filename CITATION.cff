@@ -40,13 +40,13 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20436088"
+    doi: "10.5281/zenodo.20436087"
   - type: article
     title: "Semantic Intent as Emitted Directive: Dynamic Governance Primitive Generation in MCP Tool Pipelines"
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20563477"
+    doi: "10.5281/zenodo.20563444"
   - type: article
     title: "Methodology-as-Infrastructure: From Framework to Runtime"
     authors:
@@ -58,13 +58,13 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20681523"
+    doi: "10.5281/zenodo.20681522"
   - type: article
     title: "The Synthesis Gate: What Makes a Workflow Agentic"
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20684283"
+    doi: "10.5281/zenodo.20684282"
   - type: article
     title: "Semantic Intent as Single Source of Truth: Immutable Governance for AI-Assisted Development"
     authors:

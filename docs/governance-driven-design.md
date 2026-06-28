@@ -225,15 +225,15 @@ Trustworthy is the harder property. GDD is the practice that earns it.
 
 Shatny, M. (2025). *Semantic Intent as Single Source of Truth: Immutable Governance for AI-Assisted Development*. Zenodo. https://doi.org/10.5281/zenodo.17114971
 
-Shatny, M. (2026). *Semantic Intent as Governance Primitive for Agentic Systems*. Zenodo. https://doi.org/10.5281/zenodo.20436088
+Shatny, M. (2026). *Semantic Intent as Governance Primitive for Agentic Systems*. Zenodo. https://doi.org/10.5281/zenodo.20436087
 
-Shatny, M. (2026). *Semantic Intent as Emitted Directive: Dynamic Governance Primitive Generation in MCP Tool Pipelines*. Zenodo. https://doi.org/10.5281/zenodo.20563477
+Shatny, M. (2026). *Semantic Intent as Emitted Directive: Dynamic Governance Primitive Generation in MCP Tool Pipelines*. Zenodo. https://doi.org/10.5281/zenodo.20563444
 
 Shatny, M. (2026). *Methodology-as-Infrastructure: From Framework to Runtime*. Zenodo. https://doi.org/10.5281/zenodo.18946630
 
-Shatny, M. (2026). *Intent-as-Infrastructure: When the Compiler Is Claude*. Zenodo. https://doi.org/10.5281/zenodo.20681523
+Shatny, M. (2026). *Intent-as-Infrastructure: When the Compiler Is Claude*. Zenodo. https://doi.org/10.5281/zenodo.20681522
 
-Shatny, M. (2026). *The Synthesis Gate: What Makes a Workflow Agentic*. Zenodo. https://doi.org/10.5281/zenodo.20684283
+Shatny, M. (2026). *The Synthesis Gate: What Makes a Workflow Agentic*. Zenodo. https://doi.org/10.5281/zenodo.20684282
 
 Shatny, M. (2026). *GESA: Generative Episodic Simulated Annealing*. Zenodo. https://doi.org/10.5281/zenodo.20533843
 

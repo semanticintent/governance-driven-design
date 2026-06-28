@@ -115,10 +115,10 @@ GDD  (this repo — the philosophy)
       │    │   DOI: 10.5281/zenodo.17114971
       │    │
       │    ├── Semantic Intent as Governance Primitive (2026)
-      │    │   DOI: 10.5281/zenodo.20436088
+      │    │   DOI: 10.5281/zenodo.20436087
       │    │
       │    └── Semantic Intent as Emitted Directive (2026)
-      │        DOI: 10.5281/zenodo.20563477
+      │        DOI: 10.5281/zenodo.20563444
       │
       ├─► carried by   EMBER (.sil artifact files)
       │    npm: @semanticintent/ember
@@ -235,11 +235,11 @@ The formal academic grounding for GDD and the Semantic Intent ecosystem:
 | Paper | Year | DOI |
 |---|---|---|
 | Semantic Intent as Single Source of Truth | 2025 | [10.5281/zenodo.17114971](https://doi.org/10.5281/zenodo.17114971) |
-| Semantic Intent as Governance Primitive | 2026 | [10.5281/zenodo.20436088](https://doi.org/10.5281/zenodo.20436088) |
-| Semantic Intent as Emitted Directive | 2026 | [10.5281/zenodo.20563477](https://doi.org/10.5281/zenodo.20563477) |
+| Semantic Intent as Governance Primitive | 2026 | [10.5281/zenodo.20436087](https://doi.org/10.5281/zenodo.20436087) |
+| Semantic Intent as Emitted Directive | 2026 | [10.5281/zenodo.20563444](https://doi.org/10.5281/zenodo.20563444) |
 | Methodology-as-Infrastructure | 2026 | [10.5281/zenodo.18946630](https://doi.org/10.5281/zenodo.18946630) |
-| Intent-as-Infrastructure | 2026 | [10.5281/zenodo.20681523](https://doi.org/10.5281/zenodo.20681523) |
-| The Synthesis Gate | 2026 | [10.5281/zenodo.20684283](https://doi.org/10.5281/zenodo.20684283) |
+| Intent-as-Infrastructure | 2026 | [10.5281/zenodo.20681522](https://doi.org/10.5281/zenodo.20681522) |
+| The Synthesis Gate | 2026 | [10.5281/zenodo.20684282](https://doi.org/10.5281/zenodo.20684282) |
 | Governance-Driven Design (GDD) | 2026 | [10.5281/zenodo.20938777](https://doi.org/10.5281/zenodo.20938777) |
 | Machine Legibility Dimensions | 2026 | [10.5281/zenodo.19546590](https://doi.org/10.5281/zenodo.19546590) |
 | GESA | 2026 | [10.5281/zenodo.20533843](https://doi.org/10.5281/zenodo.20533843) |
