@@ -52,7 +52,7 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20681699"
+    doi: "10.5281/zenodo.18946630"
   - type: article
     title: "Intent-as-Infrastructure: When the Compiler Is Claude"
     authors:
@@ -70,4 +70,4 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.13770361"
+    doi: "10.5281/zenodo.17114971"

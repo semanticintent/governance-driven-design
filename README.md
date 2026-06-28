@@ -112,7 +112,7 @@ GDD  (this repo — the philosophy)
       ├─► expressed as  SEMANTIC INTENT contracts
       │    │
       │    ├── Semantic Intent as Single Source of Truth (2025)
-      │    │   DOI: 10.5281/zenodo.13770361
+      │    │   DOI: 10.5281/zenodo.17114971
       │    │
       │    ├── Semantic Intent as Governance Primitive (2026)
       │    │   DOI: 10.5281/zenodo.20436088
@@ -234,10 +234,10 @@ The formal academic grounding for GDD and the Semantic Intent ecosystem:
 
 | Paper | Year | DOI |
 |---|---|---|
-| Semantic Intent as Single Source of Truth | 2025 | [10.5281/zenodo.13770361](https://doi.org/10.5281/zenodo.13770361) |
+| Semantic Intent as Single Source of Truth | 2025 | [10.5281/zenodo.17114971](https://doi.org/10.5281/zenodo.17114971) |
 | Semantic Intent as Governance Primitive | 2026 | [10.5281/zenodo.20436088](https://doi.org/10.5281/zenodo.20436088) |
 | Semantic Intent as Emitted Directive | 2026 | [10.5281/zenodo.20563477](https://doi.org/10.5281/zenodo.20563477) |
-| Methodology-as-Infrastructure | 2026 | [10.5281/zenodo.20681699](https://doi.org/10.5281/zenodo.20681699) |
+| Methodology-as-Infrastructure | 2026 | [10.5281/zenodo.18946630](https://doi.org/10.5281/zenodo.18946630) |
 | Intent-as-Infrastructure | 2026 | [10.5281/zenodo.20681523](https://doi.org/10.5281/zenodo.20681523) |
 | The Synthesis Gate | 2026 | [10.5281/zenodo.20684283](https://doi.org/10.5281/zenodo.20684283) |
 | Governance-Driven Design (GDD) | 2026 | [10.5281/zenodo.20938777](https://doi.org/10.5281/zenodo.20938777) |
@@ -245,7 +245,7 @@ The formal academic grounding for GDD and the Semantic Intent ecosystem:
 | GESA | 2026 | [10.5281/zenodo.20533843](https://doi.org/10.5281/zenodo.20533843) |
 | CROC | 2026 | [10.5281/zenodo.20777675](https://doi.org/10.5281/zenodo.20777675) |
 
-*Full citation chain: see [Methodology-as-Infrastructure Appendix B](https://doi.org/10.5281/zenodo.20681699)*
+*Full citation chain: see [Methodology-as-Infrastructure Appendix B](https://doi.org/10.5281/zenodo.18946630)*
 
 ---
 
