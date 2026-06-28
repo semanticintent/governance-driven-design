@@ -32,11 +32,11 @@ The discipline moves the definition of correctness to the earliest possible mome
 GDD does not emerge from nowhere. It is the next step in a migration that has been underway for decades.
 
 ```
-TDD  (2003)  →  correctness defined at implementation
-BDD  (2006)  →  correctness defined at behaviour  
-DDD  (2003)  →  correctness defined at domain model
-GDD  (2026)  →  correctness defined at governance layer
-               before any artifact exists
+TDD  (2002–03)  →  correctness defined at implementation
+DDD  (2003)     →  correctness defined at the domain model
+BDD  (2006)     →  correctness defined at behaviour (built on DDD)
+GDD  (2026)     →  correctness defined at the governance layer
+                   before any artifact exists
 ```
 
 Each transition shared the same pattern: a prior practice was producing correct-looking output that failed in ways the practice could not detect. The failure was traced to assumptions made too late — after commitment, after cost. A new discipline moved the definition of correctness earlier.
